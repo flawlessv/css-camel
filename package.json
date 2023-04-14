@@ -1,0 +1,24 @@
+{
+  "name": "css-camel",
+  "version": "1.0.0",
+  "description": "'一个可以使css风格代码与驼峰风格的css相互转化的工具'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flawlessv/css-camel.git"
+  },
+  "keywords": [
+    "csscaeml",
+    "csstocamel",
+    "camelcss"
+  ],
+  "author": "qwq77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flawlessv/css-camel/issues"
+  },
+  "homepage": "https://github.com/flawlessv/css-camel#readme"
+}
